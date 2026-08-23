@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cristtev/build-a-boat/refs/heads/main/build%20a%20boat%20v0.1"))()
